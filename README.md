@@ -1,5 +1,3 @@
-
-
 # 简历
 
 <p align="center">
@@ -7,8 +5,6 @@
     <img width="100" src="avatar.jpeg">
   </a>
 </p>
-
-___
 
 ## 个人信息
 
@@ -22,15 +18,11 @@ ___
 
   Github：[https://github.com/zpkweb](https://github.com/zpkweb)
 
-___
-
 ## 联系方式
 
   手机: 18612875765
 
-  Email: zpkweb@icloud.com
-
-___
+  email: zpkweb@icloud.com
 
 ## 工作经历
 
@@ -43,8 +35,6 @@ ___
 ### 北京多来点信息技术有限公司（2014年3月~2015年3月 ｜ 前端开发）
 
 ### 北京我易科技有限公司（2012年06月~2014年03月 ｜ 前端）
-
-___
 
 ## 项目经验
 
@@ -132,8 +122,6 @@ ___
 
   - 项目地址：[http://weixin.vluopan.com](http://weixin.vluopan.com)
 
-___
-
 ## 个人项目
 
 - 项目名称：fwVue
@@ -152,22 +140,16 @@ ___
   
   - 项目地址：[https://github.com/zpkweb/runing](https://github.com/zpkweb/runing) 
 
-___
-
 ## 技能清单
   
-  语言：HTML/CSS/JS/NODE
+  语言：Html / Css / Js / Node
   
-  框架：Bootstart/Jq/Vue/React/Ant Design Pro/Koa/Egg
+  框架：Bootstart / Jq / Vue / React / Ant Design Pro / Koa / Egg
   
-  工具：Bower/Yarn/Gulp/Webpack/Rollup/Pm2
+  工具：Bower / Yarn / Gulp / Webpack / Rollup / Pm2
   
-  数据库：SQLite/mongoDB
-
-___
+  数据库：SQLite / mongoDB
 
 ## 致谢
 
   感谢您花时间阅读我的简历，期待能有机会和您共事。
-
-___
