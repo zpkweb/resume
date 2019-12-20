@@ -46,9 +46,9 @@
 
   - 项目网址：[https://video.zbgedu.com/example](https://video.zbgedu.com/example)
   
-- 项目名称：视频播放器插件（2019/09/04-2019/10/25）
+- 项目名称：视频播放器插件（2019/09/04-2019/12/20）
 
-  - 项目描述：根据接收的参数，选择不同配置的播放器播放视频。目前支持Ali和CC视频
+  - 项目描述：根据接收的参数，选择不同配置的播放器播放视频。支持Ali和CC视频
 
   - 项目技术栈：TypeScript + React Hooks
 
